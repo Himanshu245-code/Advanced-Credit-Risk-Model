@@ -21,5 +21,10 @@ Thumbs.db
 data/processed/
 # Ignore datasets
 data/raw/
-data/processed/
 catboost_info/
+*.log
+*.tmp
+*.bak
+models/X_test.pkl
+models/y_test.pkl
+models/random_forest.pkl
