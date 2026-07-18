@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="figures/banner.png" alt="Advanced Credit Risk Modeling Banner" width="100%">
+</p>
+
 # Advanced Credit Risk Modeling using Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
@@ -349,13 +353,13 @@ The completed prediction pipeline demonstrates how machine learning can support 
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-github-username>/<repository-name>.git
+git clone https://github.com/Himanshu245-code/Advanced-Credit-Risk-Model.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd <repository-name>
+cd Advanced-Credit-Risk-Model
 ```
 
 Create a virtual environment (recommended):
@@ -467,4 +471,4 @@ Possible extensions of this project include:
 
 Master of Arts in Economics (Applied Quantitative Finance)
 
-If you found this project helpful, consider giving it a ⭐ on GitHub.
+
