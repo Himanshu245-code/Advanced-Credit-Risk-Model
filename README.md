@@ -179,7 +179,6 @@ Because the Home Credit dataset is highly imbalanced, Precision–Recall AUC pro
 ```text
 Advanced-Credit-Risk-Model/
 │
-├── api/
 ├── data/
 │   ├── raw/
 │   └── processed/
@@ -200,7 +199,6 @@ Advanced-Credit-Risk-Model/
 │   └── 09_final_pipeline.ipynb
 │
 ├── reports/
-├── src/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
@@ -470,5 +468,3 @@ Possible extensions of this project include:
 **Himanshu Prakash**
 
 Master of Arts in Economics (Applied Quantitative Finance)
-
-
