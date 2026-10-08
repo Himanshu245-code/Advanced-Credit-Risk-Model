@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="figures/banner.png" alt="Advanced Credit Risk Modeling Banner" width="100%">
-</p>
-
 # Advanced Credit Risk Modeling using Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
